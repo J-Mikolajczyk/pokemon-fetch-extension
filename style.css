@@ -1,0 +1,25 @@
+* {
+    background-color: #373737;
+    color: #C7DFC5;
+    border-color: #C7DFC5;
+    border-radius: 5px;
+    font-family: "sans-serif";
+    text-align: center;
+}
+
+#myLabel {
+    font-size: 3rem;
+}
+
+#myInput {
+    padding: 20px 10px; 
+    font-size: 2rem;
+}
+
+#mySubmit {
+    font-size: 2rem;
+}
+
+#myImage {
+    width: 35%;
+}
