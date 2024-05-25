@@ -12,4 +12,4 @@ A simple web application to fetch and display a Pokémon's sprite using the Poke
 2. Click "Fetch Sprite".
 3. View the Pokémon's sprite.
 
-Is also a page on my personal website under 'Projects'
+** Is also a page on my personal website under 'Projects'
