@@ -22,9 +22,3 @@ async function fetchPokemon() {
 }
 
 mySubmit.onclick = fetchPokemon;
-
-myInput.addEventListener("keypress", function(event) {
-    if (event.key === "Enter") {
-        fetchPokemon();
-    }
-});
