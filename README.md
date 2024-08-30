@@ -6,7 +6,7 @@ A simple Chrome extension to fetch and display a Pokémon's sprite using the RES
 - CSS
 - JavaScript
 - JSON
-- PokeAPI
+- RESTful API
 
 ## Usage
 1. Download the repository as a zip file.
