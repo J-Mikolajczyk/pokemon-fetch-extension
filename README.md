@@ -1,5 +1,5 @@
 # Pokemon Sprite Fetcher
-A simple Chrome extension to fetch and display a Pokémon's sprite using the PokeAPI.
+A simple Chrome extension to fetch and display a Pokémon's sprite using the RESTful PokeAPI.
 
 ## Technologies
 - HTML
